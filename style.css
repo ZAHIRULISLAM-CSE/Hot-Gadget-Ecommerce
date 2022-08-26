@@ -1,0 +1,100 @@
+
+.size{
+    padding-top: 50px;
+    padding-left: 150px;
+    height: 130px;
+}
+.nav{
+    float: right;
+    padding-top: 60px;
+    padding-right: 150px;
+    color: gray;
+    font-weight: bold;
+}
+
+.use{
+    padding-left: 150px;
+    padding-top: 150px;
+}
+.resize{
+    height: 500px;
+    width: 500px;
+}
+body {
+    
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+  }
+.modify{
+    height: 400px;
+    
+}
+.res{
+    padding-left: 70px;
+    padding-top: 20px;
+}
+.bg_1{
+    padding-left: 40px;
+    height: 120px;
+    width: 150px;
+}
+.edit{
+    padding-left: 150px;
+    padding-top: 50px;
+}
+.edit1{
+    padding-top: 50px;
+    padding-left: 400px;
+    color: orange;
+}
+.ph_padding{
+    padding-top: 30px;
+    padding-left: 150px;
+    padding-right: 150px;
+    column-gap: 65px;
+}
+.mm{
+    padding: 20px;
+        /* Add shadows to create the "card" effect */
+        box-shadow:  4px 4px 8px 4px rgba(0,0,0,0.2);
+        border-radius: 5px;
+}
+.middle{
+    padding-left: 600px;
+    padding-top: 150px;
+    padding-right: 600px;
+}
+hr{
+    height: 10px;
+}
+hr.new4 {
+    border: 1px solid orangered;
+    background-color:orangered;
+  }
+  .bag{
+    height: 100px;
+    width: 100px;
+  }
+  .xyz{
+    box-shadow: 7px 7px 20px gray;
+    padding: 30px;
+    padding-left: 150px;
+  }
+    category-section {
+        margin-bottom: 80px;
+    }
+    
+    .title-pad {
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-bottom: 20px;
+    }
+    
+    .categories-border {
+        border-bottom: 10px solid  #FFBB24;
+        border-radius: 5px;
+        margin-bottom: 20px;
+    }  
+    
+    .category-item {
+        padding:  20px 20px;
+    }
